@@ -6,7 +6,7 @@
 ## Backpropagation comparison
 ![avatar](Figure4.jpg)
 ## Reconstruction results of VTSNN under different noises
-![avatar](Figure4.jpg)
+![avatar](Figure5.jpg)
 official implementation of  VTSNN: A Virtual Temporal Spiking Neural Network
 
 Accepted to Frontiers in Neuroscience (IF = 5.152)
