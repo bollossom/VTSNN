@@ -1,5 +1,10 @@
 #  VTSNN: A Virtual Temporal Spiking Neural Network (first image reconstruction in SNN)
-
+## i Image reconstruction workflow in SNN
+![avatar](Figure 3.jpg)
+## Work flow
+![avatar](overflow.jpg)
+## Simple model
+![avatar](model.jpg)
 official implementation of  VTSNN: A Virtual Temporal Spiking Neural Network
 
 Accepted to Frontiers in Neuroscience (IF = 5.152)
