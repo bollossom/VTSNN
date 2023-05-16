@@ -32,3 +32,15 @@ Our  MNIST weight dataset can be found in
 link：https://pan.baidu.com/s/1PpuRKxmJ4mJnvmBHbSDL3w 
 code：c50
 ~~~
+
+# If you find VTSNN module useful in your work, please cite the following source:
+~~~
+@article{qiu17vtsnn,
+  title={VTSNN: A Virtual Temporal Spiking Neural Network},
+  author={Qiu, Xue-rui and Wang, Zhaorui and Luan, Zheng and Zhu, Rui-Jie and Wu, Xiao and Zhang, Malu and Deng, Liang-Jian},
+  journal={Frontiers in Neuroscience},
+  volume={17},
+  pages={838},
+  publisher={Frontiers}
+}
+~~~
