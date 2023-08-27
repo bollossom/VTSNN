@@ -44,9 +44,4 @@ code：c50
   year={2023},
   publisher={Frontiers Media SA}
 }
-  journal={Frontiers in Neuroscience},
-  volume={17},
-  pages={838},
-  publisher={Frontiers}
-}
 ~~~
