@@ -35,9 +35,15 @@ code：c50
 
 # If you find VTSNN module useful in your work, please cite the following source:
 ~~~
-@article{qiu17vtsnn,
-  title={VTSNN: A Virtual Temporal Spiking Neural Network},
-  author={Qiu, Xue-rui and Wang, Zhaorui and Luan, Zheng and Zhu, Rui-Jie and Wu, Xiao and Zhang, Malu and Deng, Liang-Jian},
+@article{qiu2023vtsnn,
+  title={VTSNN: a virtual temporal spiking neural network},
+  author={Qiu, Xue-Rui and Wang, Zhao-Rui and Luan, Zheng and Zhu, Rui-Jie and Wu, Xiao and Zhang, Ma-Lu and Deng, Liang-Jian},
+  journal={Frontiers in Neuroscience},
+  volume={17},
+  pages={1091097},
+  year={2023},
+  publisher={Frontiers Media SA}
+}
   journal={Frontiers in Neuroscience},
   volume={17},
   pages={838},
